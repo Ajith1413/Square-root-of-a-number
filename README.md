@@ -32,8 +32,9 @@ sqroot()
 
 ## Output:
 ![gcd of two number](gcd.png)
+![image](https://github.com/Ajith1413/Square-root-of-a-number/assets/139842524/5f2112be-4de5-4f30-af9a-dee833f1d1b5)
 
-![image](https://github.com/Ajith1413/Square-root-of-a-number/assets/139842524/96cec3d8-ae89-4ab3-8c0f-a8e64c5c315f)
+
 
 
 ## Result:
