@@ -31,8 +31,7 @@ sqroot()
 ```
 
 ## Output:
-![Square-root-of-a-number](gcd.png)
-![image](https://github.com/Ajith1413/Square-root-of-a-number/assets/139842524/5498f1e7-cfba-4f29-9cc7-57662d7c04de)
+![Alt text](<Screenshot 2023-11-29 133411.png>)
 
 
 
